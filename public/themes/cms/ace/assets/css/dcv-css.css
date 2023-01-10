@@ -1,0 +1,48 @@
+/* Phan trang */
+
+.dcv-pagination>strong,
+.dcv-pagination>a {
+    border: 1px solid #428bca;
+    padding: 5px 10px;
+}
+
+.dcv-pagination>a {
+    text-decoration: none;
+}
+
+.dcv-pagination>strong {
+    background-color: #428bca;
+    color: #ffffff;
+}
+
+
+/* */
+
+.table-hover>tbody>tr:hover {
+    /*background-color: #62a8d1;*/
+    background-color: #ffb752;
+    /*cursor: pointer;*/
+}
+
+.table {
+    margin-bottom: 10px;
+}
+
+div.error>li {
+    color: red;
+}
+
+
+/* Độ rộng bên trái bảng thông tin cá nhân */
+
+.profile-info-name {
+    width: 175px;
+}
+
+.color-red {
+    color: red
+}
+
+label.src-option:hover {
+    cursor: pointer
+}

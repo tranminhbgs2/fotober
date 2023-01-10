@@ -1,0 +1,66 @@
+.require-input { color: red !important; }
+.bg-sign-in {
+    background-color: white;
+    background-image: url("../../images/bg-sign-in.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-top: 65px;
+    padding-bottom: 90px;
+}
+
+.sign-in {
+    background: #fff;
+    box-shadow: 0 -12px 36px rgb(0 0 0 / 0%), 0 18px 36px rgb(0 0 0 / 8%), 0 30px 60px rgb(0 0 0 / 20%);
+    border-radius: 6px;
+    padding: 3rem;
+}
+
+.sign-in .sign-in-title {
+    font-size: 35px;
+    font-weight: 500;
+    margin: 15px 0px 25px;
+
+}
+
+.sign-in form input, textarea, select {
+    border-radius: 8px !important;
+}
+.sign-in .col-form-label{
+    display: flex;
+    align-items: center;
+}
+.sign-in .form-control{
+    transition: box-shadow .195s ease-in-out,border-color .195s ease-in-out;
+    border-radius: 4px;
+    border: 1px solid #8e96a3;
+    color: #0a2540;
+    font-weight: 500;
+    height: 46px;
+    outline: none;
+    padding: 0.8rem;
+    font-size: 14px;
+}
+
+.btn-submit {
+    width: 100%;
+    max-width: 200px;
+    margin: 1rem auto;
+    display: block;
+    transition: background-color .195s ease-in-out;
+    background-color: #017BCF;
+    font-weight: 600;
+    border: none;
+    border-radius: 0.5rem;
+    color: #fff;
+    outline: none;
+    padding: 0.75rem 1.25rem;
+}
+
+@media only screen and (max-width: 1024px) {
+    .bg-sign-in{background-size: 100% 100%;}
+}
+@media only screen and (max-width: 767px) {
+    .sign-in{padding: 1rem;}
+    .sign-in .img-fluid{display: block; margin: auto;}
+    .sign-in .sign-in-title {font-size: 25px;margin: 15px 0px;text-align: center;}
+}

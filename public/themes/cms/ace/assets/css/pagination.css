@@ -1,0 +1,28 @@
+a.pms-pagination {
+    padding: 5px 10px;
+    border: 1px solid #438eb9;
+    margin: 0px 3px;
+    text-decoration: none;
+}
+
+.pms-pagination-current {
+    padding: 5px 10px;
+    border: 1px solid #438eb9;
+    margin: 0px 3px;
+    text-decoration: none;
+    background-color: #438eb9;
+    color: white;
+}
+
+a.pms-page, .pms-page-current {
+    padding: 5px 10px;
+    text-decoration: none;
+    border: 1px solid #438eb9;
+    margin: 0px 5px;
+    border-radius: 4px;
+}
+
+.pms-page-current {
+    background-color: #438eb9;
+    color: white;
+}

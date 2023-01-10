@@ -1,0 +1,752 @@
+/* enhancement-page ------------------------------------------------------------------------------------------------- */
+.block-2-enhancement-page {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.block-2-enhancement-page .card-body h6{
+    margin-bottom: 0;
+}
+.block-2-enhancement-page .card {
+    border-radius: 15px;
+}
+.block-2-enhancement-page .card img {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    height: 155px;
+}
+.block-2-enhancement-page .row {
+    margin-top: 0;
+}
+.line-dash {
+    height: 125px;
+    width: 1px;
+    border-right: 1px dashed #888;
+    position: relative;
+    top: 25px;
+}
+.block-2-enhancement-page .content {
+    margin-top: 10%;
+    margin-left: 15%;
+}
+.block-2-enhancement-page .number {
+    font-size: 35px;
+}
+.block-2-enhancement-page .text {
+    font-size: 21px;
+}
+.block-2-enhancement-page .card-body {
+    padding-top: 15px ;
+    padding-bottom: 15px ;
+}
+.block-1-enhancement-page {
+    margin-top: 40px;
+}
+.block-1-enhancement-page h1 {
+    color: #2E7DFF;
+    text-transform: uppercase;
+}
+.block-1-enhancement-page .content {
+    font-size: 22px;
+    color: black;
+}
+img {
+    max-width: 100%;
+}
+.block-3-enhancement-page {
+    margin-top: 40px;
+    position: relative;
+}
+.block-3-enhancement-page .content span {
+    background: #017BCF;
+    color: white; padding: 8px 20px;
+    border-radius: 15px;
+    position: relative;
+    z-index: 9999;
+    top: 45px;
+    left: 22px;
+    padding-top: 5px;
+}
+.block-3-enhancement-page .content i{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 21;
+    z-index: 99;
+    margin: auto;
+    display: inline-block;
+    height: 16px ;
+    font-size: 32px;
+    color: rgba(255,255,255,0.9);
+}
+.block-3-enhancement-page .before img {
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+.block-3-enhancement-page .after img {
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.block-3-enhancement-page .before {
+    padding-right: 2px;
+}
+.block-3-enhancement-page .after {
+    padding-left: 2px;
+}
+
+.block-4-enhancement-page {
+    margin-top: 40px;
+}
+.block-4-enhancement-page .content {
+    font-size: 26px;
+}
+.block-4-enhancement-page span {
+    color: #2E7DFF;
+}
+
+/* virtual-staging-page --------------------------------------------------------------------------------------------- */
+.block-2-virtual-staging-page {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.block-2-virtual-staging-page .card-body h6{
+    margin-bottom: 0;
+}
+.block-2-virtual-staging-page .card {
+    border-radius: 15px;
+}
+.block-2-virtual-staging-page .card img {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    height: 155px;
+}
+.block-2-virtual-staging-page .row {
+    margin-top: 0;
+    margin-bottom: 35px;
+}
+.line-dash {
+    height: 125px;
+    width: 1px;
+    border-right: 1px dashed #888;
+    position: relative;
+    top: 25px;
+}
+.block-2-virtual-staging-page .content {
+    margin-top: 10%;
+}
+.block-2-virtual-staging-page .number {
+    font-size: 35px;
+}
+.block-2-virtual-staging-page .text {
+    text-align: center;
+    text-transform: uppercase;
+}
+.block-2-virtual-staging-page .card-body {
+    padding-top: 15px ;
+    padding-bottom: 15px ;
+}
+.block-1-virtual-staging-page {
+    margin-top: 40px;
+}
+.block-3-virtual-staging-page h1 {
+    color: #2E7DFF;
+    text-transform: uppercase;
+}
+.block-1-virtual-staging-page .content {
+    font-size: 22px;
+    color: black;
+}
+img {
+    max-width: 100%;
+}
+.block-3-virtual-staging-page {
+    margin-top: 40px;
+    position: relative;
+}
+.block-3-virtual-staging-page .content span {
+    background: #017BCF;
+    color: white; padding: 8px 20px;
+    border-radius: 15px;
+    position: relative;
+    z-index: 9999;
+    top: 45px;
+    left: 22px;
+    padding-top: 5px;
+}
+.block-3-virtual-staging-page .content i{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: -21px;
+    z-index: 99;
+    margin: auto;
+    display: inline-block;
+    height: 16px ;
+    font-size: 32px;
+    color: rgba(255,255,255,0.9);
+}
+.block-3-virtual-staging-page .before img {
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+.block-3-virtual-staging-page .after img {
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.block-3-virtual-staging-page .before {
+    padding-right: 2px;
+}
+.block-3-virtual-staging-page .after {
+    padding-left: 2px;
+}
+
+.block-4-virtual-staging-page {
+    margin-top: 40px;
+}
+.block-4-virtual-staging-page .content {
+    font-size: 26px;
+}
+.block-4-virtual-staging-page span {
+    color: #2E7DFF;
+}
+
+/* virtual-renovation-page ------------------------------------------------------------------------------------------ */
+.block-2-virtual-renovation-page {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.block-2-virtual-renovation-page .card-body h6{
+    margin-bottom: 0;
+}
+.block-2-virtual-renovation-page .card {
+    border-radius: 15px;
+}
+.block-2-virtual-renovation-page .card img {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    height: 155px;
+}
+.block-2-virtual-renovation-page .row {
+    margin-top: 0;
+}
+.line-dash {
+    height: 125px;
+    width: 1px;
+    border-right: 1px dashed #888;
+    position: relative;
+    top: 25px;
+}
+.block-2-virtual-renovation-page .content {
+    margin-top: 10%;
+    margin-left: 15%;
+}
+.block-2-virtual-renovation-page .number {
+    font-size: 35px;
+}
+.block-2-virtual-renovation-page .text {
+    font-size: 21px;
+}
+.block-2-virtual-renovation-page .card-body {
+    padding-top: 15px ;
+    padding-bottom: 15px ;
+}
+.block-1-virtual-renovation-page {
+    margin-top: 40px;
+}
+.block-3-virtual-renovation-page h1 {
+    color: #2E7DFF;
+    text-transform: uppercase;
+}
+.block-1-virtual-renovation-page .content {
+    font-size: 22px;
+    color: black;
+}
+img {
+    max-width: 100%;
+}
+.block-3-virtual-renovation-page {
+    margin-top: 40px;
+    position: relative;
+}
+.block-3-virtual-renovation-page .content span {
+    background: #017BCF;
+    color: white; padding: 8px 20px;
+    border-radius: 15px;
+    position: relative;
+    z-index: 9999;
+    top: 45px;
+    left: 22px;
+    padding-top: 5px;
+}
+.block-3-virtual-renovation-page .content i{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: -21px;
+    z-index: 99;
+    margin: auto;
+    display: inline-block;
+    height: 16px ;
+    font-size: 32px;
+    color: rgba(255,255,255,0.9);
+}
+.block-3-virtual-renovation-page .before img {
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+.block-3-virtual-renovation-page .after img {
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.block-3-virtual-renovation-page .before {
+    padding-right: 2px;
+}
+.block-3-virtual-renovation-page .after {
+    padding-left: 2px;
+}
+
+.block-4-virtual-renovation-page {
+    margin-top: 40px;
+}
+.block-4-virtual-renovation-page .content {
+    font-size: 26px;
+}
+.block-4-virtual-renovation-page span {
+    color: #2E7DFF;
+}
+
+/* day-to-dusk-page ------------------------------------------------------------------------------------------------- */
+.block-2-day-to-dusk-page {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.block-2-day-to-dusk-page .card-body h6{
+    margin-bottom: 0;
+}
+.block-2-day-to-dusk-page .card {
+    border-radius: 15px;
+}
+.block-2-day-to-dusk-page .card img {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    height: 155px;
+}
+.block-2-day-to-dusk-page .row {
+    margin-top: 0;
+}
+.line-dash {
+    height: 125px;
+    width: 1px;
+    border-right: 1px dashed #888;
+    position: relative;
+    top: 25px;
+}
+.block-2-day-to-dusk-page .content {
+    margin-top: 10%;
+    margin-left: 15%;
+}
+.block-2-day-to-dusk-page .number {
+    font-size: 35px;
+}
+.block-2-day-to-dusk-page .text {
+    font-size: 21px;
+}
+.block-2-day-to-dusk-page .card-body {
+    padding-top: 15px ;
+    padding-bottom: 15px ;
+}
+.block-1-day-to-dusk-page {
+    margin-top: 40px;
+}
+.block-3-day-to-dusk-page h1 {
+    color: #2E7DFF;
+    text-transform: uppercase;
+}
+.block-1-day-to-dusk-page .content {
+    font-size: 22px;
+    color: black;
+}
+img {
+    max-width: 100%;
+}
+.block-3-day-to-dusk-page {
+    margin-top: 40px;
+    position: relative;
+}
+.block-3-day-to-dusk-page .content span {
+    background: #017BCF;
+    color: white; padding: 8px 20px;
+    border-radius: 15px;
+    position: relative;
+    z-index: 9999;
+    top: 45px;
+    left: 22px;
+    padding-top: 5px;
+}
+.block-3-day-to-dusk-page .content i{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: -21px;
+    z-index: 99;
+    margin: auto;
+    display: inline-block;
+    height: 16px ;
+    font-size: 32px;
+    color: rgba(255,255,255,0.9);
+}
+.block-3-day-to-dusk-page .before img {
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+.block-3-day-to-dusk-page .after img {
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.block-3-day-to-dusk-page .before {
+    padding-right: 2px;
+}
+.block-3-day-to-dusk-page .after {
+    padding-left: 2px;
+}
+
+.block-4-day-to-dusk-page {
+    margin-top: 40px;
+}
+.block-4-day-to-dusk-page .content {
+    font-size: 26px;
+}
+.block-4-day-to-dusk-page span {
+    color: #2E7DFF;
+}
+
+/* floor-plan-redraw-page */
+.block-2-floor-plan-redraw-page {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.block-2-floor-plan-redraw-page .description {
+    font-size: 20px;
+}
+.block-2-floor-plan-redraw-page .card-body h6{
+    margin-bottom: 0;
+}
+.block-2-floor-plan-redraw-page .card {
+    border: initial;
+}
+.block-2-floor-plan-redraw-page .card img {
+    max-height: 300px;
+}
+.block-2-floor-plan-redraw-page .row {
+    margin-top: 0;
+    margin-bottom: 35px;
+}
+.line-dash {
+    height: 125px;
+    width: 1px;
+    border-right: 1px dashed #888;
+    position: relative;
+    top: 25px;
+}
+.block-2-floor-plan-redraw-page .content {
+    margin-top: 25%;
+}
+.block-2-floor-plan-redraw-page .number {
+    font-size: 35px;
+}
+.block-2-floor-plan-redraw-page .text {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+.block-2-floor-plan-redraw-page .card-body {
+    padding-top: 15px ;
+    padding-bottom: 15px ;
+}
+.block-1-floor-plan-redraw-page {
+    margin-top: 40px;
+}
+.block-3-floor-plan-redraw-page h1 {
+    color: #2E7DFF;
+    text-transform: uppercase;
+}
+.block-1-floor-plan-redraw-page .content {
+    font-size: 22px;
+    color: black;
+}
+img {
+    max-width: 100%;
+}
+.block-3-floor-plan-redraw-page {
+    margin-top: 40px;
+    position: relative;
+}
+.block-3-floor-plan-redraw-page .content span {
+    background: #017BCF;
+    color: white; padding: 8px 20px;
+    border-radius: 15px;
+    position: relative;
+    z-index: 9999;
+    top: 45px;
+    left: 22px;
+    padding-top: 5px;
+}
+.block-3-floor-plan-redraw-page .content i{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: -21px;
+    z-index: 99;
+    margin: auto;
+    display: inline-block;
+    height: 16px ;
+    font-size: 32px;
+    color: rgba(255,255,255,0.9);
+}
+.block-3-floor-plan-redraw-page .before img {
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+.block-3-floor-plan-redraw-page .after img {
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.block-3-floor-plan-redraw-page .before {
+    padding-right: 2px;
+}
+.block-3-floor-plan-redraw-page .after {
+    padding-left: 2px;
+}
+
+.block-4-floor-plan-redraw-page {
+    margin-top: 40px;
+}
+.block-4-floor-plan-redraw-page .content {
+    font-size: 26px;
+}
+.block-4-floor-plan-redraw-page span {
+    color: #2E7DFF;
+}
+
+/* video-editting-page ---------------------------------------------------------------------------------------------- */
+.block-2-video-editting-page {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.block-2-video-editting-page .card-body h6{
+    margin-bottom: 0;
+}
+.block-2-video-editting-page .card {
+    border-radius: 15px;
+}
+.block-2-video-editting-page .card img {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    height: 250px;
+}
+.block-2-video-editting-page .row {
+    margin-top: 0;
+}
+.line-dash {
+    height: 200px;
+    width: 1px;
+    border-right: 1px dashed #888;
+    position: relative;
+    top: 25px;
+}
+.block-2-video-editting-page .content {
+    margin-top: 10%;
+    margin-left: 15%;
+}
+.block-2-video-editting-page .number {
+    font-size: 35px;
+}
+.block-2-video-editting-page .text {
+    font-size: 21px;
+}
+.block-2-video-editting-page .card-body {
+    padding-top: 15px ;
+    padding-bottom: 15px ;
+}
+.block-1-video-editting-page {
+    margin-top: 40px;
+}
+.block-1-video-editting-page h1 {
+    color: #2E7DFF;
+    text-transform: uppercase;
+}
+.block-1-video-editting-page .content {
+    font-size: 22px;
+    color: black;
+}
+img {
+    max-width: 100%;
+}
+.block-3-video-editting-page {
+    margin-top: 40px;
+    position: relative;
+}
+.block-3-video-editting-page .content span {
+    background: #017BCF;
+    color: white; padding: 8px 20px;
+    border-radius: 15px;
+    position: relative;
+    z-index: 9999;
+    top: 45px;
+    left: 22px;
+    padding-top: 5px;
+}
+.block-3-video-editting-page .content i{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: -21px;
+    z-index: 99;
+    margin: auto;
+    display: inline-block;
+    height: 16px ;
+    font-size: 32px;
+    color: rgba(255,255,255,0.9);
+}
+.block-3-video-editting-page .before img {
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+.block-3-video-editting-page .after img {
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.block-3-video-editting-page .before {
+    padding-right: 2px;
+}
+.block-3-video-editting-page .after {
+    padding-left: 2px;
+}
+
+.block-4-video-editting-page {
+    margin-top: 40px;
+}
+.block-4-video-editting-page .content {
+    font-size: 26px;
+}
+.block-4-video-editting-page span {
+    color: #2E7DFF;
+}
+
+/* rendering-page --------------------------------------------------------------------------------------------------- */
+.block-2-rendering-page {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.block-2-rendering-page .card-body h6{
+    margin-bottom: 0;
+}
+.block-2-rendering-page .card {
+    border-radius: 15px;
+}
+.block-2-rendering-page .card img {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    height: 155px;
+}
+.block-2-rendering-page .row {
+    margin-top: 0;
+}
+.line-dash {
+    height: 125px;
+    width: 1px;
+    border-right: 1px dashed #888;
+    position: relative;
+    top: 25px;
+}
+.block-2-rendering-page .content {
+    margin-top: 10%;
+    margin-left: 15%;
+}
+.block-2-rendering-page .number {
+    font-size: 35px;
+}
+.block-2-rendering-page .text {
+    font-size: 21px;
+}
+.block-2-rendering-page .card-body {
+    padding-top: 15px ;
+    padding-bottom: 15px ;
+}
+.block-1-rendering-page {
+    margin-top: 40px;
+}
+.block-1-rendering-page h1 {
+    color: #2E7DFF;
+    text-transform: uppercase;
+    margin-bottom: 35px;
+}
+.block-1-rendering-page .content {
+    font-size: 25px;
+    color: black;
+}
+img {
+    max-width: 100%;
+}
+.block-3-rendering-page {
+    margin-top: 40px;
+    position: relative;
+    margin-bottom: 50px;
+}
+.block-3-rendering-page .content span {
+    background: #017BCF;
+    color: white; padding: 8px 20px;
+    border-radius: 15px;
+    position: relative;
+    z-index: 9999;
+    top: 45px;
+    left: 22px;
+    padding-top: 5px;
+}
+.block-3-rendering-page .content i{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: -21px;
+    z-index: 99;
+    margin: auto;
+    display: inline-block;
+    height: 16px ;
+    font-size: 32px;
+    color: rgba(255,255,255,0.9);
+}
+.block-3-rendering-page .before img {
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+.block-3-rendering-page .after img {
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.block-3-rendering-page .before {
+    padding-right: 2px;
+}
+.block-3-rendering-page .after {
+    padding-left: 2px;
+}
+
+.block-4-rendering-page {
+    margin-top: 40px;
+}
+.block-4-rendering-page .content {
+    font-size: 26px;
+}
+.block-4-rendering-page span {
+    color: #2E7DFF;
+}
+
+/* ------------------------------------------------------------------------------------------------------------------ */
+
+
+/* ------------------------------------------------------------------------------------------------------------------ */
+
+
+/* ------------------------------------------------------------------------------------------------------------------ */
+
+
+/*  */
+

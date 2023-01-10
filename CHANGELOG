@@ -1,0 +1,9 @@
+
+[xx/xx/2021] Xxxx
+- Xxx
+
+[06/09/2021] Fixbug lỗi môi trường của Paypal
+- File: vendor/paypal/rest-api-sdk-php/lib/PayPal/Core/PayPalConstants.php
+- Thay giá trị golive vào biến Sandbox
+++ const REST_SANDBOX_ENDPOINT = "https://api.paypal.com/";
+++ const OPENID_REDIRECT_SANDBOX_URL = "https://www.paypal.com";
