@@ -100,31 +100,6 @@ class Constants
     const VIEW_PAGE_PATH = 'themes.cms.ace.pages';
     const VIEW_LAYOUT_PATH = 'themes.cms.ace.layouts';
 
-    //Thông số của Paypal
-    //account cua a Hoàng
-    const PAYPAL_CLIENT_ID = 'AVzwVZm-q-Hd3FpiKDGjF4VyhZG-9rJ3IpUBVQBGtQxmUVpNLAquGJchqZ5z070bscPvk9XOjbYYVV5n';
-    const PAYPAL_CLIENT_SECRET = 'EI9--ZPOWqSkne1Pvp9GyqmWd-KBhm3VAkoU-VkIUTai6W_QH9qaXouJ77BB27_2fyCK3NwdNK3bpoL1';
-    //account dùng để test
-    // const PAYPAL_CLIENT_ID = 'AUYWdpmYToTR-FtgYXBsRoy9zUHkTIcvb_pJ5rTEtL7a_yp1veCMwvSTNb4UBiY0D2jDX-_7Wioi2jZW';
-    // const PAYPAL_CLIENT_SECRET = 'EJQKA1UWrIB2ap6xmicWadzNmaQdaq0Ly4fHMrkdONj3AqbPdWaRYp4QcJ1MVT-LKJYvdEu5JuTFg8pr';
-    //account paypal minh
-    // const PAYPAL_CLIENT_ID = 'AQCvkCaIcjQM3oNDjmZDsLqH-Cp3yJ1Y0jtLqj_B86etDnvdj0ay6Nts09wNT3lVIDZ5xgBhbrOEQCDD';
-    // const PAYPAL_CLIENT_SECRET = 'EIJwaCbDCGso9Edq6BDx1tB5Rbc3PlGZLHVIsiZe9dk0eq3zCPc-7xkoUHwJUFz5bGLJRunvuR_J_pcH';
-
-    //Thông tin của hệ thống
-    // const EMAIL = 'sb-9xwxk6021531@business.example.com'; //mail test
-    // const EMAIL = 'nhokbghotboi@gmail.com'; //mail live minh
-    const EMAIL = 'invoice@fotober.com'; //mail live a Hoàng
-    const ADDESS = 'fotober.com';
-    const STATE = 'Thanh Xuân';
-    const CITY = 'Hà Nội';
-    const COUNTRY = 'VN';
-    const POSTALCODE = '10000';
-    const PHONE = '326786633';
-    const COMPANY_NAME = 'Fotober Vitenam';
-    const FIRST_NAME = 'Hoang';
-    const LAST_NAME = 'Dang';
-
     const EMAIL_ORDER_CREATE = 'ORDER_CREATE';
     const EMAIL_ORDER_DELIVERY = 'ORDER_DELIVERY';
     const EMAIL_ORDER_COMPLETED = 'ORDER_COMPLETED';
